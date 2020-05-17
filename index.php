@@ -2,5 +2,5 @@
     HELLO,,,,HI
 </h1>
 <?php
-print "<h1>PHP is Cool</h1>";
+println "<h1>PHP is Cool</h1>";
 ?>
